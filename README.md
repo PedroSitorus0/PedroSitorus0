@@ -9,19 +9,19 @@
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### **Web Development Chaos**
-![PHP, Lambo Lu Warna Apa BOSS?](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### **Web Development (Belum Punya Lambo)**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Scripting & Automation**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## *GitHub Stats yang Mencerminkan Stress Level**
+## *GitHub Stats yang Mencerminkan Stress Level*
 
-![](https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=[PedroSitorus0]&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=[PedroSitorus0]&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=dark&background=0d1117&hide_border=true)
 
