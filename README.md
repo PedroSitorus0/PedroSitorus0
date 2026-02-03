@@ -23,7 +23,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=[PedroSitorus0]&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=dark&background=0d1117&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=[PedroSitorus0]&theme=dark&background=0d1117&hide_border=true)
 
 ## **Daily Reality**
 
