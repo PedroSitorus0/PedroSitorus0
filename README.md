@@ -1,8 +1,8 @@
-# ⚡️ Halo, Saya Pedro - The Stressed Coder
+# Halo, Saya Pedro - The Stressed Coder
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=My%20Brain%20is%20Compiling...&fontSize=30&fontColor=000000)
 
-## 🧠 **Tech Stack yang Bikin Pusing**
+## **Tech Stack yang Bikin Pusing**
 
 ### **Low-Level Madness**
 ![Assembly](https://img.shields.io/badge/ASM-8B0000?style=for-the-badge&logo=assemblyscript&logoColor=white)
@@ -18,7 +18,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 📊 **GitHub Stats yang Mencerminkan Stress Level**
+## *GitHub Stats yang Mencerminkan Stress Level**
 
 ![](https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true)
 
@@ -26,7 +26,7 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=dark&background=0d1117&hide_border=true)
 
-## 🔥 **Daily Reality**
+## **Daily Reality**
 
 ```python
 while True:
