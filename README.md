@@ -27,13 +27,45 @@
 
 ## **Daily Reality**
 
-```python
-while True:
-    try:
-        if brain.is_functioning():
-            code()
-        else:
-            drink_coffee()
-    except:
-        print("Segmentation fault (core dumped)")
-        reboot_brain()
+```asm
+section .data
+    segfault_msg db "Segmentation fault (core dumped)", 0xA, 0
+    true equ 1
+    false equ 0
+
+section .text
+    global _start
+    extern brain_is_functioning, code, drink_coffee, reboot_brain, printf
+
+_start:
+
+main_loop:
+    call brain_is_functioning
+    cmp eax, true
+    je .call_code
+    
+    call drink_coffee
+    jmp .end_if
+    
+.call_code:
+    call code
+
+.end_if:
+    call check_exception
+    cmp eax, true
+    je .handle_exception
+    
+    jmp main_loop
+
+.handle_exception:
+    mov rdi, segfault_msg
+    call printf
+    
+    ; Reboot brain
+    call reboot_brain
+    
+    jmp main_loop
+
+check_exception:
+    mov eax, false
+    ret
