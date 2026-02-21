@@ -17,14 +17,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## GitHub Stats yang Mencerminkan Stress Level
-
-[](https://github-readme-stats.vercel.app/api?username=PedroSitorus0&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSitorus0&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=PedroSitorus0&theme=dark&background=0d1117&hide_border=true)
-
 ## **Daily Reality**
 
 ```asm
