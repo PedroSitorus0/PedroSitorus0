@@ -1,5 +1,7 @@
 # Halo, Saya Pedro - Kernel Enthusiast
 
+![Hikawa Hina](https://github.com/PedroSitorus0/PedroSitorus0/raw/main/hina-hikawa-cheers.gif)
+
 
 ## **Tech Stack yang Bikin Pusing**
 
