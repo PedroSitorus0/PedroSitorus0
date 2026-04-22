@@ -1,6 +1,5 @@
 # Halo, Saya Pedro - Kernel Enthusiast
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=My%20Brain%20is%20Compiling...&fontSize=30&fontColor=000000)
 
 ## **Tech Stack yang Bikin Pusing**
 
