@@ -19,6 +19,9 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
+## **Thanks for stopping by**
+![Hikawa Hina 2](https://github.com/PedroSitorus0/PedroSitorus0/raw/main/ruirins.gif)
+
 ## **Daily Reality**
 
 ```asm
@@ -63,3 +66,4 @@ main_loop:
 check_exception:
     mov eax, false
     ret
+
