@@ -3,7 +3,7 @@
 ![Hikawa Hina](https://github.com/PedroSitorus0/PedroSitorus0/raw/main/hina-hikawa-cheers.gif)
 
 
-## **Tech Stack yang Bikin Pusing**
+## **Tech Stack yang Bikin Meledak**
 
 ### **Low-Level Madness**
 ![Assembly](https://img.shields.io/badge/ASM-8B0000?style=for-the-badge&logo=assemblyscript&logoColor=white)
