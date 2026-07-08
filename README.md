@@ -20,7 +20,7 @@
 
 
 ## **Thanks for stopping by**
-![Hikawa Hina 2](https://github.com/PedroSitorus0/PedroSitorus0/raw/main/ruirins.gif)
+![Hikawa Hina-2](https://github.com/PedroSitorus0/PedroSitorus0/raw/main/ruirins.gif)
 
 ## **Daily Reality**
 
