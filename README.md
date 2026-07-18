@@ -2,6 +2,8 @@
 
 ![Hikawa Hina](https://github.com/PedroSitorus0/PedroSitorus0/raw/main/hina-hikawa-cheers.gif)
 
+##Gak Tahu Apa
+![Profile Views](https://komarev.com/ghpvc/?username=PedroSitorus0y&style=for-the-badge)
 
 ## **Tech Stack yang Bikin Meledak**
 
