@@ -2,7 +2,18 @@
 
 ![Hikawa Hina](https://github.com/PedroSitorus0/PedroSitorus0/raw/main/hina-hikawa-cheers.gif)
 
+## **Gak Tau Apa Ini Wok**
 
+<details>
+  <summary>Statistics</summary><br/>
+  <p align="center">
+    <a href="https://github.com/PedroSitorus0">
+      <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroSitorus0&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000" />
+      <img width="38%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroSitorus0&layout=compact&langs_count=10&theme=dark&bg_color=000000" />
+      <img width="98.6%" src="https://github-readme-activity-graph.vercel.app/graph?username=PedroSitorus0&bg_color=000000&color=FFFFFF&point=FFFFFF&line=6CC644&area_color=6CC644&&area=true&radius=6&hide_title=true" />
+    <a/>
+  </p>
+</details>
 
 ## **Tech Stack yang Bikin Meledak**
 
